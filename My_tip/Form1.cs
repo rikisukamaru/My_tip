@@ -290,7 +290,7 @@ namespace My_tip
                 {
                     outMessage = "Первая дробь больше второй";
                 }
-                else if(max1 == max2)
+                else if (max1 == max2)
                 {
                     outMessage = "Дроби равны";
                 }
