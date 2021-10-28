@@ -127,7 +127,7 @@ namespace My_tip
 
 
 
-        class Drob
+       public class Drob
         {
             private int num1;
             private int denum1;
